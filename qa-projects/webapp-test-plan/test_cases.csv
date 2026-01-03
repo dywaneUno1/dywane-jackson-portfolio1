@@ -1,0 +1,6 @@
+Test Case ID,Category,Title,Priority,Expected Result
+TC-001,Authentication,Valid SSO Login,P0,User successfully logged in
+TC-002,Authentication,Invalid SSO Login,P0,Error message displayed
+TC-003,Device Management,View Device Inventory,P1,All devices displayed
+TC-004,Device Management,Search Device,P1,Matching devices shown
+TC-005,Reporting,Generate Compliance Report,P1,Report generated successfully

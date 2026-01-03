@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Credentials
+config.ini
+secrets.json
+*.pem
+*.key
