@@ -43,5 +43,5 @@ python inventory_export.py
 ## Author
 
 Gwane Jackson  
-Employed by Apple Inc - Client Engineering IS&T previous
+Employed by Apple Inc - Previous Client Engineering IS&T:
 Jamf 300 Certified Admin 
