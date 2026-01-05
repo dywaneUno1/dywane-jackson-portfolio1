@@ -17,4 +17,4 @@ sqlite3 device_compliance.db < schema.sql
 
 ## Author
 
-Gwene Jackson - Apple Inc IS&T
+Gwane Jackson - Apple Inc
