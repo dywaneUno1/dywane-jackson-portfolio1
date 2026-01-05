@@ -42,6 +42,6 @@ python inventory_export.py
 
 ## Author
 
-Gwene Jackson  
-Apple Inc - Client Engineering IS&T  
-Jamf Certified Associate
+Gwane Jackson  
+Employed by Apple Inc - Client Engineering IS&T previous
+Jamf 300 Certified Admin 
