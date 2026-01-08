@@ -19,5 +19,5 @@ IT professional with experience at Apple Inc. transitioning to software developm
 ## Contact
 
 - GitHub: [Update with your username]
-- LinkedIn: [Update with your profile]
+- LinkedIn: https://www.linkedin.com/in/dywane-jackson-54918b6/
 - Email: [Update with your email]
