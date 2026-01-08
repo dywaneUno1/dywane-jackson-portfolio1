@@ -20,4 +20,4 @@ IT professional with experience at Apple Inc. transitioning to software developm
 
 - GitHub: [Update with your username]
 - LinkedIn: https://www.linkedin.com/in/dywane-jackson-54918b6/
-- Email: [Update with your email]
+- Email: dywane@icloud.com djackson@apple.com
