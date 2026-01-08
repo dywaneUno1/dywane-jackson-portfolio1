@@ -1,4 +1,4 @@
-# Gwene Jackson - Technical Portfolio
+# Dywane aka gwane Jackson - Technical Portfolio
 
 IT professional with experience at Apple Inc. transitioning to software development and QA engineering.
 
