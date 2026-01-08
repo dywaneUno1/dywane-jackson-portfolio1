@@ -14,4 +14,4 @@
 
 ## Author
 
-Gwene Jackson - Self-Directed Learning Portfolio
+Gwane Jackson - Self-Directed Learning Portfolio
