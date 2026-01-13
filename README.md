@@ -12,7 +12,7 @@ IT professional with experience at Apple Inc. transitioning to software developm
 ## Skills
 
 - Python, SQL, Bash
-- Jamf Pro MDM, Apple Business Manager
+- Jamf Pro MDM, Apple Business Manager, Apple School Manager
 - Quality Assurance, Test Planning
 - Git/GitHub, Tableau
 
